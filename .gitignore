@@ -14,3 +14,16 @@
 bin/
 build/
 gen/
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/Java-Best-Practices-Java8.iml
+/.idea/workspace.xml
+/.idea/encodings.xml
+/.gitignore
+/.idea/libraries/
+.idea/libraries/Maven__junit_junit_4_13.xml
+.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml
+src/main/
+src/test/
+target/
